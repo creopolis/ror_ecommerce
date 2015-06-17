@@ -57,6 +57,7 @@ gem 'rake', '~> 10.1'
 gem "sprockets",       "2.11.0"
 #gem 'state_machine',   '~> 1.2.0'
 gem 'aasm', '~> 4.0.3'
+gem 'dalli'
 #gem 'sunspot_solr',   '~> 2.0.0'
 #gem 'sunspot_rails',  '~> 2.0.0'
 gem 'will_paginate',   '~> 3.0.7'
